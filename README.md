@@ -221,3 +221,8 @@ Unconditionally branches back to the start of the function.
 The saved return address is never restored.
 The function never returns to the caller.
 
+<img width="243" height="413" alt="image" src="https://github.com/user-attachments/assets/d9b85b58-06c9-4474-9ee4-7b6de4a59c21" />
+
+<img width="447" height="530" alt="image" src="https://github.com/user-attachments/assets/d8732ce4-dd37-4ffc-80c8-b1a16621996d" />
+
+
